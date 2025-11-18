@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/65/c6/a3/65c6a32a91d1b93e30b8cdc8a98ac606.jpg" alt="Banner" />
+  <img class="h4" src="https://i.pinimg.com/1200x/65/c6/a3/65c6a32a91d1b93e30b8cdc8a98ac606.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Sakhawat Hossain</h1>
