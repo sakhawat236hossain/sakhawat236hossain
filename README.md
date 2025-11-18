@@ -77,10 +77,16 @@ I’m a dedicated front-end developer who loves creating beautiful and user-frie
 
 
 ---
-
-## 📌 **Pinned Projects**
-
-
 ## 📬 **Thanks for Visiting!**
 ⭐ If you like my profile, don’t forget to star my repositories!
+
+
+
+
+
+
+
+
+
+
 
