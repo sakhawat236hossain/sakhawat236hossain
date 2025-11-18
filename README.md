@@ -8,12 +8,7 @@
 
 ---
 
-### 🧑‍💼 **Profile Info**
-- 🔭 I’m currently working on **Full-stack Web Projects**
-- 🌱 I’m exploring **Next.js & Advanced React**
-- 👨‍💻 I love building **modern, responsive UI**
-- 🌍 Location: **Dhaka, Bangladesh**
-- 📧 Email: **YOUR_EMAIL**
+
 
 ---
 
@@ -72,6 +67,12 @@ I’m a dedicated front-end developer who loves creating beautiful and user-frie
 </p>
 
 ---
+### 🧑‍💼 **Profile Info**
+- 🔭 I’m currently working on **Full-stack Web Projects**
+- 🌱 I’m exploring **Next.js & Advanced React**
+- 👨‍💻 I love building **modern, responsive UI**
+- 🌍 Location: **Dhaka, Bangladesh**
+- 📧 Email: **YOUR_EMAIL**
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
