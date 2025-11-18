@@ -74,52 +74,12 @@ I’m a dedicated front-end developer who loves creating beautiful and user-frie
 - 🌍 Location: **Dhaka, Bangladesh**
 - 📧 Email: **YOUR_EMAIL**
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakhawat236hossain&row=1&theme=flat" />
-</p>
+
 
 ---
 
 ## 📌 **Pinned Projects**
-> 👉 **Ensure these repositories have:**  
-> - Short description  
-> - Live site link  
-> - Tech used  
-> - Features list  
-> - Screenshot  
-> - Installation guide  
 
-Example format you should use inside repo README:
-
-```md
-# Project Name
-Short overview of your project.
-
-## 🚀 Live Demo
-https://your-live-link.com
-
-## 🛠️ Tech Stack
-- React
-- Tailwind CSS
-- Node.js
-- MongoDB
-
-## ⭐ Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## 📸 Screenshot
-![Preview](screenshot.png)
-
-## 🧩 Install & Run
-git clone repo-link  
-npm install  
-npm run dev
-```
-
----
 
 ## 📬 **Thanks for Visiting!**
 ⭐ If you like my profile, don’t forget to star my repositories!
