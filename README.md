@@ -1,21 +1,125 @@
-<h1 align="center">Hi 👋, I'm Md Sakhawat Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20views&color=0e75b6&style=flat" alt="sakhawat236hossain" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/md_sakhawathossain_75f05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md_sakhawathossain_75f05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-sakhawat-hossain-622728373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sakhawat-hossain-622728373/" height="30" width="40" /></a>
-<a href="https://fb.com/md.sakhawth.hosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.sakhawth.hosain" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmdshwthsyn/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmdshwthsyn/?hl=en" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/qgZmq7K/github-banner.png" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Md Sakhawat Hossain</h1>
+<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat236hossain&show_icons=true&locale=en&layout=compact" alt="sakhawat236hossain" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&locale=en" alt="sakhawat236hossain" /></p>
+### 🧑‍💼 **Profile Info**
+- 🔭 I’m currently working on **Full-stack Web Projects**
+- 🌱 I’m exploring **Next.js & Advanced React**
+- 👨‍💻 I love building **modern, responsive UI**
+- 🌍 Location: **Dhaka, Bangladesh**
+- 📧 Email: **YOUR_EMAIL**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawat236hossain&" alt="sakhawat236hossain" /></p>
+---
+
+### 🧠 **About Me**
+
+I’m a dedicated front-end developer who loves creating beautiful and user-friendly web interfaces. Passionate about modern JavaScript frameworks, especially React & Next.js. Currently building full-stack projects using MERN stack and learning advanced development workflows.
+
+---
+
+## 🌐 **Connect With Me**
+<p align="left">
+<a href="https://dev.to/md_sakhawathossain_75f05" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/md-sakhawat-hossain-622728373" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/md.sakhawth.hosain" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ **Languages & Tools**
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sakhawat236hossain" />
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakhawat236hossain&row=1&theme=flat" />
+</p>
+
+---
+
+## 📌 **Pinned Projects**
+> 👉 **Ensure these repositories have:**  
+> - Short description  
+> - Live site link  
+> - Tech used  
+> - Features list  
+> - Screenshot  
+> - Installation guide  
+
+Example format you should use inside repo README:
+
+```md
+# Project Name
+Short overview of your project.
+
+## 🚀 Live Demo
+https://your-live-link.com
+
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- Node.js
+- MongoDB
+
+## ⭐ Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 📸 Screenshot
+![Preview](screenshot.png)
+
+## 🧩 Install & Run
+git clone repo-link  
+npm install  
+npm run dev
+```
+
+---
+
+## 📬 **Thanks for Visiting!**
+⭐ If you like my profile, don’t forget to star my repositories!
+
