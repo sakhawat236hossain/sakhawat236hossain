@@ -6,7 +6,7 @@
   <img 
     src="https://i.pinimg.com/1200x/65/c6/a3/65c6a32a91d1b93e30b8cdc8a98ac606.jpg" 
     width="100%" 
-    style="max-height: 250px; object-fit: cover; border-radius: 10px;" 
+    style="max-height: 200px; object-fit: cover; border-radius: 10px;" 
     alt="Banner" 
   />
 </p>
