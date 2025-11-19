@@ -4,7 +4,7 @@
 <!-- Banner -->
 <p align="center">
   <img 
-    src="https://i.pinimg.com/1200x/65/c6/a3/65c6a32a91d1b93e30b8cdc8a98ac606.jpg" 
+![photo_2025-11-19_13-12-49](https://github.com/user-attachments/assets/212a2f1e-b4d9-49ec-bf6b-22f9056303af)
     width="100%" 
     style="max-height: 200px; object-fit: cover; border-radius: 10px;" 
     alt="Banner" 
