@@ -30,8 +30,9 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
 </p>
- 📧 Email: **hmdsakhawat236@gmail.com**  
- whatsapp :01851121472
+## 📧 Email: **hmdsakhawat236@gmail.com** 
+
+## whatsapp :01851121472
 
 ---
 
