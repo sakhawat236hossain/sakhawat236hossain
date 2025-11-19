@@ -3,12 +3,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img 
-![photo_2025-11-19_13-12-49](https://github.com/user-attachments/assets/212a2f1e-b4d9-49ec-bf6b-22f9056303af)
-    width="100%" 
-    style="max-height: 200px; object-fit: cover; border-radius: 10px;" 
-    alt="Banner" 
-  />
+![photo_2025-11-19_13-12-49](https://github.com/user-attachments/assets/8c1fa4e5-dadf-4b7f-87f1-753b6322ad4e)
+
 </p>
 
 
