@@ -20,16 +20,6 @@ I’m a dedicated front-end developer who loves creating beautiful, responsive a
 Passionate about modern JavaScript frameworks — especially **React** and **Next.js**.  
 Currently building full-stack projects using the **MERN stack** and exploring advanced development workflows.
 
----
-
-## 🧑‍💼 Profile Info  
-- 🔭 Currently working on **Full-stack Web Projects**  
-- 🌱 Exploring **Next.js & Advanced React Patterns**  
-- 🧩 I enjoy building **modern, responsive UI**  
-- 🌍 Location: **Dhaka, Bangladesh**  
-- 📧 Email: **YOUR_EMAIL**  
-
----
 
 ## 🌐 Connect With Me  
 <p align="left">
@@ -45,6 +35,7 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
 </p>
+ 📧 Email: **hmdsakhawat236@gmail.com**  
 
 ---
 
