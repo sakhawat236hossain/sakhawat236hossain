@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#0d6efd">Md Sakhawat Hossain</span></h1>
 <h3 align="center">A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
-![photo_2025-11-19_13-12-49](https://github.com/user-attachments/assets/0bb746db-3148-4b31-a03a-7acff241294d)
+![bannerCanva](https://github.com/user-attachments/assets/1ced9261-ab03-4bc5-8614-a0c95b70d67e)
 
 
 
