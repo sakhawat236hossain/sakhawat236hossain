@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#0d6efd">Md Sakhawat Hossain</span></h1>
 <h3 align="center">Full Stack (MERN) Developer | Next.js Enthusiast 🚀</h3>
 
-<p align="left">
-  <a href="https://dev.to/md_sakhawathossain_75f05" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="180px"/>
+</p>
 
 ---
 
