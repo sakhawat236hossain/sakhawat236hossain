@@ -72,30 +72,26 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
 
 
 
+---
+
 ## 📊 GitHub Stats
-
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20Views&color=0e75b6&style=flat" />
-
+  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=default" height="160" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact" height="160" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact" height="160" />
 </p>
 
-
-
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sakhawat236hossain" height="180" />
+</p>
 
 ---
 
+
+ata shundor kore edit ko ro 
 ## 📬 Thanks for Visiting!
 <p align="center">
 ⭐ If you like my profile, don’t forget to star my repositories!  
