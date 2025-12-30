@@ -68,28 +68,31 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman" />
 </p>
 
-## 📊 GitHub Analytics
+---
+
+
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20Views&color=0d6efd&style=flat-square&logo=github" alt="Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact&theme=tokyonight" />
-  </a>
-</p>
+
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=sakhawat236hossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=default" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact" height="160" />
+
 </p>
 
+
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakhawat236hossain&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
