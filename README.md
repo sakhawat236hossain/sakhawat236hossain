@@ -52,6 +52,14 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS" />
 </p>
 
+### ⚡ State Management & Data Fetching
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo-color-600w.png" width="45" title="TanStack Query" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" title="Redux Toolkit" />
+  <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/master/docs/logo.png" width="45" title="React Hook Form" />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" width="45" title="Zod (Validation)" />
+</p>
+
 ### ⚙️ Backend & Database
 <p align="left">
   <img src="https://camo.githubusercontent.com/80de2180c1ed384aa00d0e6e8925782816664c47a0f9129eb34d1f53273d4e5f/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6461726b2f6e6f64656a73" width="45" title="Node.js" />
@@ -60,7 +68,7 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase" />
 </p>
 
-### 🛠️ Tools & Version Control
+### 🛠️ Development Tools
 <p align="left">
   <img src="https://camo.githubusercontent.com/10ac4170353b8d942d0201ee41b80f9473c1d4018b4b5647f33cddddfc122221/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6c696768742f7673636f6465" width="45" title="VS Code" />
   <img src="https://camo.githubusercontent.com/79c8e08825518399120e414134d9782a6dd8cbb545c484e2616800f4e4a35581/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6461726b2f676974" width="45" title="Git" />
