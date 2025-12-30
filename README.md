@@ -88,7 +88,7 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakhawat236hossain&theme=tokyonight" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakhawat236hossain&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
