@@ -68,20 +68,27 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman" />
 </p>
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=Profile%20Views&color=0d6efd&style=flat-square&logo=github" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact" height="160" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sakhawat236hossain" height="180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=sakhawat236hossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakhawat236hossain&theme=tokyonight" width="100%" />
 </p>
 
 ---
