@@ -110,6 +110,23 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
 
 ---
 
+---
+
+## 🏅 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20Design-Completed-green?style=flat&logo=csswizardry&logoColor=white" alt="Responsive Design" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript%20ES6+-Advanced-yellow?style=flat&logo=javascript&logoColor=black" alt="JS ES6+" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React%20Development-Intermediate-blue?style=flat&logo=react&logoColor=white" alt="React" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Programming%20Hero-Full%20Stack%20Web%20Dev-blueviolet?style=flat&logo=googleclassroom&logoColor=white" alt="Programming Hero" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Proficient-orange?style=flat&logo=git&logoColor=white" alt="Git & GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-Intermediate-success?style=flat&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+---
+
+
 
 ata shundor kore edit ko ro 
 ## 📬 Thanks for Visiting!
