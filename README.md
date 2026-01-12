@@ -126,7 +126,13 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
 
 ---
 
+---
 
+## 🗺️ GitHub Contribution Heatmap
+
+[![Sakhawar GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aamamunszone&theme=react-dark)](https://github.com/aamamunszone)
+
+---
 
 ata shundor kore edit ko ro 
 ## 📬 Thanks for Visiting!
