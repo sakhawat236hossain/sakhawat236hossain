@@ -18,8 +18,8 @@ I am a dedicated **Front-end Developer** based in Bangladesh 🇧🇩, passionat
 
 | **Frontend** | **Backend & Database** | **Tools & Others** |
 | :--- | :--- | :--- |
-| React.js, Next.js, Redux | Node.js, Express.js | Git, GitHub, VS Code |
-| JavaScript (ES6+), TypeScript | MongoDB, Firebase | Vercel, Netlify, Figma |
+| React.js, Next.js,  | Node.js, Express.js | Git, GitHub, VS Code |
+| JavaScript (ES6+),  | MongoDB, Firebase | Vercel, Netlify, Figma |
 | Tailwind CSS, HTML5, CSS3 | REST API, JWT | Postman, NPM |
 
 ---
