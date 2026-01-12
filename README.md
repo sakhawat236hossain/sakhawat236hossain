@@ -8,67 +8,79 @@
 ---
 
 ### 🧠 About Me
-I am a dedicated **Front-end Developer** based in Bangladesh 🇧🇩, passionate about building modern, scalable, and user-centric web applications. Currently, I am focused on mastering the **MERN Stack** and creating seamless user experiences with **React** and **Next.js**.
-
-</div>
+I am a dedicated **Front-end Developer** from Bangladesh 🇧🇩. I build modern web applications using the **MERN Stack**, focusing on **React** and **Next.js** to create seamless user experiences.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+### 🛠️ My Tech Stack
 
-| **Frontend** | **Backend & Database** | **Tools & Others** |
-| :--- | :--- | :--- |
-| React.js, Next.js,  | Node.js, Express.js | Git, GitHub, VS Code |
-| JavaScript (ES6+),  | MongoDB, Firebase | Vercel, Netlify, Figma |
-| Tailwind CSS, HTML5, CSS3 | REST API, JWT | Postman, NPM |
+**Frontend & Design**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,typescript,vite,figma" />
+</p>
 
----
+**Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
+</p>
 
-## 🚀 Featured Projects
-
-### 🎟️ Online Ticket Booking Platform
-**Role:** Full Stack Developer (MERN)
-- **Key Features:** A comprehensive ticket purchasing system featuring a robust **Admin and Vendor dashboard**. It allows vendors to manage services while users enjoy a seamless booking experience.
-- **Tech Stack:** React, Tailwind CSS, Node.js, MongoDB, Firebase.
-- **🔗 [Live Demo](https://online-ticket-booking-platform.netlify.app/)**
-
-### 🏡 Home Nest - Real Estate Marketplace
-**Role:** Frontend Developer
-- **Key Features:** A premium property selling platform where users can list properties and buyers can explore homes or land with an intuitive UI and advanced filtering.
-- **Tech Stack:** React, Firebase Authentication, Tailwind CSS, Framer Motion.
-- **🔗 [Live Demo](https://home-nest-a10-b12.netlify.app/)**
-
----
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=transparent&title_color=0d6efd&icon_color=0d6efd&text_color=555&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact&theme=transparent&title_color=0d6efd&text_color=555&hide_border=true" height="170" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/md-sakhawat-hossain-622728373" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hmdsakhawat236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/8801851121472"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://fb.com/md.sakhawth.hosain"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://dev.to/md_sakhawathossain_75f05"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+**Tools & Deployment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,vercel" />
 </p>
 
 ---
 
-<div align="center">
+### 🚀 Featured Projects
 
-### 🗺️ Contribution Activity
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🎟️-Ticket_Booking-0d6efd?style=for-the-badge" /><br/>
+      <b>Online Ticket Platform</b><br/>
+      Admin & Vendor Dashboards<br/>
+      <a href="https://online-ticket-booking-platform.netlify.app/"><b>Live Demo</b></a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🏡-Home_Nest-0d6efd?style=for-the-badge" /><br/>
+      <b>Property Marketplace</b><br/>
+      Real Estate Buy/Sell Solution<br/>
+      <a href="https://home-nest-a10-b12.netlify.app/"><b>Live Demo</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhawat236hossain&show_icons=true&theme=transparent&title_color=0d6efd&icon_color=0d6efd&text_color=555&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat236hossain&layout=compact&theme=transparent&title_color=0d6efd&text_color=555&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawat236hossain&theme=transparent&currStreakNum=0d6efd&fire=0d6efd&sideLabels=555&hide_border=true" width="85%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/md-sakhawat-hossain-622728373" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hmdsakhawat236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/8801851121472"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://fb.com/md.sakhawth.hosain"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+### 🗺️ Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakhawat236hossain&theme=react-dark&bg_color=ffffff00&color=0d6efd&line=0d6efd&point=000000&area=true&hide_border=true)](https://github.com/sakhawat236hossain)
 
 <br/>
 
-**Thanks for visiting! If you like my work, feel free to ⭐ my repositories.**
-<br/>
 <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=PROFILE%20VIEWS&color=0d6efd&style=flat-square" />
 
 </div>
