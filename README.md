@@ -7,8 +7,8 @@
 
 ---
 
-### 🧠 Profile Overview
-আমি একজন ডেডিকেটেড **Frontend Developer**। বর্তমানে আমি **React, Next.js এবং MERN Stack** ব্যবহার করে আধুনিক এবং স্কেলেবল ওয়েব অ্যাপ্লিকেশন তৈরিতে কাজ করছি। আমি সবসময় ক্লিন কোড এবং ইউজার এক্সপেরিয়েন্সের (UX) দিকে সর্বোচ্চ নজর দেই।
+### 🧠 About Me
+I am a dedicated **Front-end Developer** based in Bangladesh 🇧🇩, passionate about building modern, scalable, and user-centric web applications. Currently, I am focused on mastering the **MERN Stack** and creating seamless user experiences with **React** and **Next.js**.
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack & Expertise
 
-| **Frontend** | **Backend & Database** | **Tools & Deployment** |
+| **Frontend** | **Backend & Database** | **Tools & Others** |
 | :--- | :--- | :--- |
 | React.js, Next.js, Redux | Node.js, Express.js | Git, GitHub, VS Code |
 | JavaScript (ES6+), TypeScript | MongoDB, Firebase | Vercel, Netlify, Figma |
@@ -28,14 +28,14 @@
 
 ### 🎟️ Online Ticket Booking Platform
 **Role:** Full Stack Developer (MERN)
-- **Description:** এটি একটি কমপ্লিট টিকিট বুকিং সলিউশন যেখানে এডমিন এবং ভেন্ডর প্যানেল রয়েছে। ইউজাররা সহজেই টিকিট কিনতে পারে এবং ভেন্ডররা তাদের সার্ভিস ম্যানেজ করতে পারে।
-- **Tech Used:** React, Tailwind CSS, Node.js, MongoDB.
+- **Key Features:** A comprehensive ticket purchasing system featuring a robust **Admin and Vendor dashboard**. It allows vendors to manage services while users enjoy a seamless booking experience.
+- **Tech Stack:** React, Tailwind CSS, Node.js, MongoDB, Firebase.
 - **🔗 [Live Demo](https://online-ticket-booking-platform.netlify.app/)**
 
-### 🏡 Home Nest - Property Selling Platform
+### 🏡 Home Nest - Real Estate Marketplace
 **Role:** Frontend Developer
-- **Description:** একটি প্রিমিয়াম প্রপার্টি কেনাবেচার প্ল্যাটফর্ম। এখানে ইউজাররা তাদের প্রপার্টি লিস্টিং করতে পারে এবং বায়াররা পছন্দমতো ঘর বা জমি খুঁজে নিতে পারে।
-- **Tech Used:** React, Firebase Auth, Tailwind.
+- **Key Features:** A premium property selling platform where users can list properties and buyers can explore homes or land with an intuitive UI and advanced filtering.
+- **Tech Stack:** React, Firebase Authentication, Tailwind CSS, Framer Motion.
 - **🔗 [Live Demo](https://home-nest-a10-b12.netlify.app/)**
 
 ---
@@ -55,6 +55,7 @@
 <a href="mailto:hmdsakhawat236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/8801851121472"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://fb.com/md.sakhawth.hosain"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://dev.to/md_sakhawathossain_75f05"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
@@ -66,7 +67,7 @@
 
 <br/>
 
-**Thanks for visiting my profile!**
+**Thanks for visiting! If you like my work, feel free to ⭐ my repositories.**
 <br/>
 <img src="https://komarev.com/ghpvc/?username=sakhawat236hossain&label=PROFILE%20VIEWS&color=0d6efd&style=flat-square" />
 
