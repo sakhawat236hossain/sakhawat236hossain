@@ -38,38 +38,34 @@ Currently building full-stack projects using the **MERN stack** and exploring ad
 | 💬 **WhatsApp** | [+880 1851 121472](https://wa.me/8801851121472) |
 | 🌍 **Location** | Bangladesh 🇧🇩 |
 
----
-
-## 🛠️ Languages & Tools
-
-### 🌐 Frontend & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://camo.githubusercontent.com/80de2180c1ed384aa00d0e6e8925782816664c47a0f9129eb34d1f53273d4e5f/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6461726b2f6e6f64656a73" width="45" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase" />
-</p>
-
-### 🛠️ Tools & Version Control
-<p align="left">
-  <img src="https://camo.githubusercontent.com/10ac4170353b8d942d0201ee41b80f9473c1d4018b4b5647f33cddddfc122221/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6c696768742f7673636f6465" width="45" title="VS Code" />
-  <img src="https://camo.githubusercontent.com/79c8e08825518399120e414134d9782a6dd8cbb545c484e2616800f4e4a35581/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6461726b2f676974" width="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman" />
-</p>
 
 ---
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+</p>
+
+---
 
 
 ---
