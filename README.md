@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30"> I'm <span style="color:#0d6efd">Md Sakhawat Hossain</span>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0D6EFD&width=435&lines=Frontend+Developer;MERN+Stack+Developer;React+%26+Next.js+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
+### <img width="1114" height="276" alt="image" src="https://github.com/user-attachments/assets/22b0905d-ba34-43f4-8d79-c88f4d6a8d9d" />
 
 ![Banner](https://github.com/user-attachments/assets/1ced9261-ab03-4bc5-8614-a0c95b70d67e)
 
