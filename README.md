@@ -1,21 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&width=500&lines=Hi,+I'm+Shakhawat;MERN+Stack+Developer;Full+Stack+Expert;Building+Role-based+Dashboards;Stripe+Payment+Integration;TanStack+Query+%26+Recharts+Pro">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A00E0&width=500&lines=Hi,+I'm+Shakhawat;MERN+Stack+Developer;Full+Stack+Expert;Building+Role-based+Dashboards;Stripe+Payment+Integration;TanStack+Query+%26+Recharts+Pro">
-  
-  <img alt="Shakhawat - MERN Developer" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&width=500&lines=Hi,+I'm+Shakhawat;MERN+Stack+Developer">
-</picture>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1C8139&vcenter=true&width=900&lines=Hi%2C+I'm+MD Sakhawat Hossain;Full-Stack+Web+Developer+(Trainee);MERN+Stack+Developer;Passionate+Self-Learner+%26+Tech-Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing"
+    alt="Typing SVG"
+    style="width: 100%; max-width: 800px;"
+  />
 
 ---
-
-### 🚀 Key Project Achievements:
-
-* **Secure Access:** Implemented role-based dashboards (User, Vendor, Admin) with **Firebase** and protected routes.
-* **Seamless Payments:** Built dynamic booking and payment workflows with **Stripe** for real-time seat synchronization.
-* **Data Insights:** Developed advanced search, filtering, and vendor analytics using **TanStack Query** and **Recharts**.
-* **Admin Control:** Designed ticket moderation, vendor verification, and a toggle-based advertisement system.
-
-**Tech Stack:** `React`, `Node.js`, `Express.js`, `MongoDB`, `Stripe`, `Tailwind CSS`, `TanStack Query`, `Firebase`
 
 <img width="1114" height="276" alt="image" src="https://github.com/user-attachments/assets/300b0ed4-ab3b-4b52-93f1-ac91b7f37bad" />
 
