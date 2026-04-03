@@ -1,8 +1,8 @@
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1C8139&vcenter=true&width=900&lines=Hi%2C+I'm+MD Sakhawat Hossain;Full-Stack+Web+Developer+(Trainee);MERN+Stack+Developer;Passionate+Self-Learner+%26+Tech-Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing"
-    alt="Typing SVG"
-    style="width: 100%; max-width: 800px;"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1C8139&vcenter=true&width=900&lines=Hi%2C+I'm+MD+Sakhawat+Hossain;Full-Stack+Web+Developer+(Trainee);MERN+Stack+Developer;Passionate+Self-Learner+%26+Tech-Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing"
+  alt="Typing SVG"
+  style="width: 100%; max-width: 800px;"
+/>
 
 ---
 
