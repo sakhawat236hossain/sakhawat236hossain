@@ -24,7 +24,7 @@ I’m a dedicated **Front-end Developer** from Bangladesh 🇧🇩 who loves cre
 
 ## 💻 Featured Projects
 
-### 🎟️ [Online Ticket Booking Platform](https://online-ticket-booking-platform.netlify.app/)
+### 🎟️ [Online TicketBari Platform](https://online-ticket-booking-platform.netlify.app/)
 > A complete MERN stack solution for buying and selling tickets with dedicated **Admin & Vendor dashboards**.
 
 ### 🏡 [Home Nest - Real Estate Marketplace](https://home-nest-a10-b12.netlify.app/)
